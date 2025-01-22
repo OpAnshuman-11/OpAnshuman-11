@@ -20,8 +20,8 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/OpAnshuman-11/OpAnshuman-11/edit/main/README.md)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anshuman-kumbhakar-669929265/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anshumankumbhakar55@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Anshuman%20Kumbhakar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anshuman-kumbhakar-669929265/)
+[![Mail](https://img.shields.io/badge/Hotmail-anshumankumbhakar55@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anshumankumbhakar55@gmail.com)
 <br>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Anshuman Kumbhakar</strong></samp></h2>
